@@ -16,7 +16,7 @@
 # -------MOBILE: STUDENT APP------
 # Add:
 ![WhatsApp Image 2023-10-24 à 04 30 29_51415eb7](https://github.com/zakaria-333/TP-Volley/assets/77533601/0e9a8e16-de2a-4781-93cd-70376ceacbab);![WhatsApp Image 2023-10-24 à 04 30 29_5493eb84](https://github.com/zakaria-333/TP-Volley/assets/77533601/19e487b1-e7a6-4170-9e55-c73bac1f0692);
-<img width="50" alt="image" src="https://github.com/zakaria-333/TP-Volley/assets/77533601/0e9a8e16-de2a-4781-93cd-70376ceacbab">;
+<img width="150" alt="image" src="https://github.com/zakaria-333/TP-Volley/assets/77533601/0e9a8e16-de2a-4781-93cd-70376ceacbab">;
 
 ![WhatsApp Image 2023-10-24 à 04 30 30_4773ba3b](https://github.com/zakaria-333/TP-Volley/assets/77533601/21ad8357-8969-43d2-869f-c9fbe796fda3);
 # Update:
