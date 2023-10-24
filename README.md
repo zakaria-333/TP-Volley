@@ -19,19 +19,14 @@
 <img width="200" alt="image" src="https://github.com/zakaria-333/TP-Volley/assets/77533601/19e487b1-e7a6-4170-9e55-c73bac1f0692">;
 <img width="200" alt="image" src="https://github.com/zakaria-333/TP-Volley/assets/77533601/21ad8357-8969-43d2-869f-c9fbe796fda3">;
 
-
-
-
 # Update:
 <img width="200" alt="image" src="https://github.com/zakaria-333/TP-Volley/assets/77533601/78e11336-c1e2-4972-bd41-8a95fbebb9f2">;
 <img width="200" alt="image" src="https://github.com/zakaria-333/TP-Volley/assets/77533601/a6a73208-b010-4009-9559-538c4cc4da6d">;
 <img width="200" alt="image" src="https://github.com/zakaria-333/TP-Volley/assets/77533601/35210c43-03cf-4ce5-83e8-e286201f80c6">;
-![WhatsApp Image 2023-10-24 à 04 30 31_d4fa9aa4](https://github.com/zakaria-333/TP-Volley/assets/77533601/78e11336-c1e2-4972-bd41-8a95fbebb9f2); ![WhatsApp Image 2023-10-24 à 04 33 06_fa04ee1d](https://github.com/zakaria-333/TP-Volley/assets/77533601/a6a73208-b010-4009-9559-538c4cc4da6d);
 
-![WhatsApp Image 2023-10-24 à 04 30 33_cf152968](https://github.com/zakaria-333/TP-Volley/assets/77533601/35210c43-03cf-4ce5-83e8-e286201f80c6);
 # Delete:
-<img width="200" alt="image" src="https://github.com/zakaria-333/TP-Volley/assets/77533601/19e487b1-e7a6-4170-9e55-c73bac1f0692">;
-<img width="200" alt="image" src="https://github.com/zakaria-333/TP-Volley/assets/77533601/19e487b1-e7a6-4170-9e55-c73bac1f0692">;
+<img width="200" alt="image" src="https://github.com/zakaria-333/TP-Volley/assets/77533601/b6d98963-1357-4165-b2c0-c3ba0ec1fabd">;
+<img width="200" alt="image" src="https://github.com/zakaria-333/TP-Volley/assets/77533601/8519a479-54f4-4369-9335-e9c38196883c">;
 ![WhatsApp Image 2023-10-24 à 04 30 33_fe7b1505](https://github.com/zakaria-333/TP-Volley/assets/77533601/b6d98963-1357-4165-b2c0-c3ba0ec1fabd);
 ![WhatsApp Image 2023-10-24 à 04 49 56_fa237d3b](https://github.com/zakaria-333/TP-Volley/assets/77533601/8519a479-54f4-4369-9335-e9c38196883c);
 
