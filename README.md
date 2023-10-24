@@ -27,8 +27,7 @@
 # Delete:
 <img width="200" alt="image" src="https://github.com/zakaria-333/TP-Volley/assets/77533601/b6d98963-1357-4165-b2c0-c3ba0ec1fabd">;
 <img width="200" alt="image" src="https://github.com/zakaria-333/TP-Volley/assets/77533601/8519a479-54f4-4369-9335-e9c38196883c">;
-![WhatsApp Image 2023-10-24 à 04 30 33_fe7b1505](https://github.com/zakaria-333/TP-Volley/assets/77533601/b6d98963-1357-4165-b2c0-c3ba0ec1fabd);
-![WhatsApp Image 2023-10-24 à 04 49 56_fa237d3b](https://github.com/zakaria-333/TP-Volley/assets/77533601/8519a479-54f4-4369-9335-e9c38196883c);
+
 
 
 
